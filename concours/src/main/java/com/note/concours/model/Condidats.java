@@ -1,4 +1,4 @@
-package com.gestion.concour.model;
+package com.note.concours.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -7,8 +7,6 @@ import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
-@EqualsAndHashCode
-@NoArgsConstructor
 
 public class Condidats {
     private int id_candidats;

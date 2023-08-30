@@ -1,7 +1,7 @@
-package com.gestion.concour.Repository;
+package com.note.concours.Repository;
 
 import com.gestion.concour.BaseConnection.Connections;
-import com.gestion.concour.model.Session;
+import com.note.concours.model.Session;
 import org.springframework.stereotype.Repository;
 
 import java.sql.PreparedStatement;

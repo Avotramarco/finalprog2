@@ -1,7 +1,8 @@
-package com.gestion.concour.Controller;
+package com.note.concours.Controller;
 
-import com.gestion.concour.Service.NoteService;
-import com.gestion.concour.model.Note;
+
+import com.note.concours.Service.NoteService;
+import com.note.concours.model.Note;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

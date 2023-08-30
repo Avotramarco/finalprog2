@@ -1,10 +1,9 @@
-package com.gestion.concour.Service;
+package com.note.concours.Service;
 
-import com.gestion.concour.Repository.NoteDAO;
-import com.gestion.concour.model.Note;
+import com.note.concours.Repository.NoteDAO;
+import com.note.concours.model.Note;
 import org.springframework.stereotype.Service;
 
-import java.sql.SQLException;
 import java.util.List;
 @Service
 

@@ -1,7 +1,6 @@
-package com.gestion.concour.Controller;
-
-import com.gestion.concour.Service.StatusService;
-import com.gestion.concour.model.Statuts;
+package com.note.concours.Controller;
+import com.note.concours.Service.StatusService;
+import com.note.concours.model.Statuts;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.gestion.concour.Service;
+package com.note.concours.Service;
 
-import com.gestion.concour.Repository.SessionDAO;
-import com.gestion.concour.model.Session;
+import com.note.concours.Repository.SessionDAO;
+import com.note.concours.model.Session;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

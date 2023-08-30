@@ -1,7 +1,7 @@
-package com.gestion.concour.Controller;
+package com.note.concours.Controller;
 
-import com.gestion.concour.Service.SessionService;
-import com.gestion.concour.model.Session;
+import com.note.concours.Service.SessionService;
+import com.note.concours.model.Session;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

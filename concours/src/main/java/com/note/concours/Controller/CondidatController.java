@@ -1,7 +1,7 @@
-package com.gestion.concour.Controller;
+package com.note.concours.Controller;
 
-import com.gestion.concour.Service.CondidatService;
-import com.gestion.concour.model.Condidats;
+import com.note.concours.Service.CondidatService;
+import com.note.concours.model.Condidats;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -14,7 +14,7 @@ public class CondidatController {
     }
 
     @GetMapping("/candidat")
-    public  List<Condidats> showAll(){
+    public List<Condidats> showAll(){
         return  condidats.FindAll();
     }
     @GetMapping("/canditat/{id}")

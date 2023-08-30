@@ -1,4 +1,4 @@
-package com.gestion.concour.model;
+package com.note.concours.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

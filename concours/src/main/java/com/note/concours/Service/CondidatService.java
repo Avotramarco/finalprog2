@@ -1,7 +1,7 @@
-package com.gestion.concour.Service;
+package com.note.concours.Service;
 
-import com.gestion.concour.Repository.CondidatDAO;
-import com.gestion.concour.model.Condidats;
+import com.note.concours.Repository.CondidatDAO;
+import com.note.concours.model.Condidats;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

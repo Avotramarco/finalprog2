@@ -1,9 +1,9 @@
-package com.gestion.concour.Repository;
+package com.note.concours.Repository;
 
 import ch.qos.logback.core.status.Status;
 import ch.qos.logback.core.status.StatusUtil;
 import com.gestion.concour.BaseConnection.Connections;
-import com.gestion.concour.model.Statuts;
+import com.note.concours.model.Statuts;
 import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 
